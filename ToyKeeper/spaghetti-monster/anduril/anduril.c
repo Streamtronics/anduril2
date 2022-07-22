@@ -57,7 +57,7 @@
 //#define CONFIGFILE cfg-blf-q8.h
 
 #include "tk.h"
-#include incfile(CONFIGFILE)
+#include "cfg-noctigon-k9.3-tintramp-fet.h"
 
 
 /********* Include headers which need to be before FSM *********/
