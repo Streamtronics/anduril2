@@ -1,0 +1,1093 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_mulhi3.o)
+                              anduril.o (__mulhi3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_mulsi3.o)
+                              anduril.o (__mulsi3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_udivmodqi4.o)
+                              anduril.o (__udivmodqi4)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_udivmodhi4.o)
+                              anduril.o (__udivmodhi4)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_divmodhi4.o)
+                              anduril.o (__divmodhi4)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_udivmodsi4.o)
+                              anduril.o (__udivmodsi4)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_exit.o)
+                              C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.8.332/gcc/dev/attiny1634/avr35/crtattiny1634.o (exit)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_copy_data.o)
+                              anduril.o (__do_copy_data)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_clear_bss.o)
+                              anduril.o (__do_clear_bss)
+C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.8.332/gcc/dev/attiny1634/avr35\libattiny1634.a(eerd_byte.o)
+                              anduril.o (eeprom_read_byte)
+C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.8.332/gcc/dev/attiny1634/avr35\libattiny1634.a(eeupd_byte.o)
+                              anduril.o (eeprom_update_byte)
+
+Allocating common symbols
+Common symbol       size              file
+
+eeprom              0x1e              anduril.o
+current_state       0x2               anduril.o
+ramp_discrete_step_size
+                    0x1               anduril.o
+temperature         0x2               anduril.o
+gradual_target      0x1               anduril.o
+button_last_state   0x1               anduril.o
+deferred_state      0x2               anduril.o
+deferred_state_arg  0x2               anduril.o
+emissions           0x30              anduril.o
+manual_memory_tint  0x1               anduril.o
+number_entry_value  0x1               anduril.o
+adc_smooth          0x4               anduril.o
+PWM1_LVL            0x2               anduril.o
+current_event       0x1               anduril.o
+adc_raw             0x4               anduril.o
+state_stack         0x10              anduril.o
+
+Discarded input sections
+
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.8.332/gcc/dev/attiny1634/avr35/crtattiny1634.o
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.8.332/gcc/dev/attiny1634/avr35/crtattiny1634.o
+ .text          0x00000000        0x0 anduril.o
+ .data          0x00000000        0x0 anduril.o
+ .bss           0x00000000        0x0 anduril.o
+ .text.rgb_led_voltage_readout
+                0x00000000       0x14 anduril.o
+ .rodata.NUM_STROBES
+                0x00000000        0x2 anduril.o
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_mulhi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_mulhi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_mulhi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_mulhi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_mulhi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_mulhi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_mulhi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_mulhi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_mulhi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_mulsi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_mulsi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_mulsi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_mulsi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_mulsi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_mulsi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_mulsi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_mulsi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_mulsi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_udivmodqi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_udivmodqi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_udivmodqi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_udivmodqi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_udivmodqi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_udivmodqi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_udivmodqi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_udivmodqi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_udivmodqi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_udivmodhi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_udivmodhi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_divmodhi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_divmodhi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_divmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_divmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_divmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_divmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_divmodhi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.8.332/gcc/dev/attiny1634/avr35\libattiny1634.a(eerd_byte.o)
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.8.332/gcc/dev/attiny1634/avr35\libattiny1634.a(eerd_byte.o)
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.8.332/gcc/dev/attiny1634/avr35\libattiny1634.a(eerd_byte.o)
+ .text          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.8.332/gcc/dev/attiny1634/avr35\libattiny1634.a(eeupd_byte.o)
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.8.332/gcc/dev/attiny1634/avr35\libattiny1634.a(eeupd_byte.o)
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.8.332/gcc/dev/attiny1634/avr35\libattiny1634.a(eeupd_byte.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00004000         xr
+data             0x00800100         0x00000400         rw !x
+eeprom           0x00810000         0x00000100         rw !x
+fuse             0x00820000         0x00000003         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.8.332/gcc/dev/attiny1634/avr35/crtattiny1634.o
+LOAD anduril.o
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr35\libm.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr35\libm.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr35\libc.a
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.8.332/gcc/dev/attiny1634/avr35\libattiny1634.a
+END GROUP
+                [0x00000000]                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x00800100]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800060
+                [0x00004000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x10000
+                [0x00000400]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x00000100]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000003]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x30d0
+ *(.vectors)
+ .vectors       0x00000000       0x70 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.8.332/gcc/dev/attiny1634/avr35/crtattiny1634.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x00000070                . = ALIGN (0x2)
+                0x00000070                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000070        0x0 linker stubs
+ *(.trampolines*)
+                0x00000070                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+ .progmem.data.version_number
+                0x00000070        0xd anduril.o
+                0x00000070                version_number
+ .progmem.data.rgb_led_colors
+                0x0000007d        0x7 anduril.o
+                0x0000007d                rgb_led_colors
+ .progmem.data.pwm_tops
+                0x00000084      0x12c anduril.o
+                0x00000084                pwm_tops
+ .progmem.data.pwm2_levels
+                0x000001b0      0x12c anduril.o
+                0x000001b0                pwm2_levels
+ .progmem.data.pwm1_levels
+                0x000002dc      0x12c anduril.o
+                0x000002dc                pwm1_levels
+                0x00000408                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000408                __ctors_start = .
+ *(.ctors)
+                0x00000408                __ctors_end = .
+                0x00000408                __dtors_start = .
+ *(.dtors)
+                0x00000408                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000408        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.8.332/gcc/dev/attiny1634/avr35/crtattiny1634.o
+                0x00000408                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000408        0xc C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.8.332/gcc/dev/attiny1634/avr35/crtattiny1634.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000414       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_copy_data.o)
+                0x00000414                __do_copy_data
+ .init4         0x0000042a       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_clear_bss.o)
+                0x0000042a                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000043a        0x8 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.8.332/gcc/dev/attiny1634/avr35/crtattiny1634.o
+ *(.init9)
+ *(.text)
+ .text          0x00000442        0x4 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.8.332/gcc/dev/attiny1634/avr35/crtattiny1634.o
+                0x00000442                __vector_22
+                0x00000442                __vector_1
+                0x00000442                __vector_24
+                0x00000442                __vector_12
+                0x00000442                __bad_interrupt
+                0x00000442                __vector_6
+                0x00000442                __vector_3
+                0x00000442                __vector_23
+                0x00000442                __vector_25
+                0x00000442                __vector_11
+                0x00000442                __vector_13
+                0x00000442                __vector_17
+                0x00000442                __vector_19
+                0x00000442                __vector_7
+                0x00000442                __vector_27
+                0x00000442                __vector_4
+                0x00000442                __vector_9
+                0x00000442                __vector_21
+                0x00000442                __vector_15
+                0x00000442                __vector_8
+                0x00000442                __vector_26
+                0x00000442                __vector_10
+                0x00000442                __vector_16
+                0x00000442                __vector_18
+                0x00000442                __vector_20
+                0x00000446                . = ALIGN (0x2)
+ *(.text.*)
+ .text.ramp_config_save
+                0x00000446       0x80 anduril.o
+                0x00000446                ramp_config_save
+ .text.ramp_extras_config_save
+                0x000004c6       0x28 anduril.o
+                0x000004c6                ramp_extras_config_save
+ .text.globals_config_save
+                0x000004ee        0x6 anduril.o
+                0x000004ee                globals_config_save
+ .text.version_check_state
+                0x000004f4        0x4 anduril.o
+                0x000004f4                version_check_state
+ .text.voltage_config_save
+                0x000004f8        0x8 anduril.o
+                0x000004f8                voltage_config_save
+ .text.thermal_config_save
+                0x00000500       0x36 anduril.o
+                0x00000500                thermal_config_save
+ .text.autolock_config_save
+                0x00000536        0x6 anduril.o
+                0x00000536                autolock_config_save
+ .text._delay_zero
+                0x0000053c        0xa anduril.o
+                0x0000053c                _delay_zero
+ .text._set_state
+                0x00000546       0x54 anduril.o
+                0x00000546                _set_state
+ .text.push_state
+                0x0000059a       0x34 anduril.o
+                0x0000059a                push_state
+ .text.pop_state
+                0x000005ce       0x58 anduril.o
+                0x000005ce                pop_state
+ .text.set_state
+                0x00000626       0x22 anduril.o
+                0x00000626                set_state
+ .text.battcheck_state
+                0x00000648       0x4c anduril.o
+                0x00000648                battcheck_state
+ .text.tempcheck_state
+                0x00000694       0x40 anduril.o
+                0x00000694                tempcheck_state
+ .text.set_state_deferred
+                0x000006d4       0x12 anduril.o
+                0x000006d4                set_state_deferred
+ .text.append_emission
+                0x000006e6       0x42 anduril.o
+                0x000006e6                append_emission
+ .text.delete_first_emission
+                0x00000728       0x5a anduril.o
+                0x00000728                delete_first_emission
+ .text.emit_now
+                0x00000782       0x44 anduril.o
+                0x00000782                emit_now
+ .text.process_emissions
+                0x000007c6       0x1c anduril.o
+                0x000007c6                process_emissions
+ .text.emit     0x000007e2        0x6 anduril.o
+                0x000007e2                emit
+ .text.emit_current_event
+                0x000007e8        0xc anduril.o
+                0x000007e8                emit_current_event
+ .text.empty_event_sequence
+                0x000007f4       0x14 anduril.o
+                0x000007f4                empty_event_sequence
+ .text.push_event
+                0x00000808       0x50 anduril.o
+                0x00000808                push_event
+ .text.delay_4ms
+                0x00000858       0x2a anduril.o
+                0x00000858                delay_4ms
+ .text.__vector_14
+                0x00000882       0x7c anduril.o
+                0x00000882                __vector_14
+ .text.adc_deferred
+                0x000008fe      0x29c anduril.o
+                0x000008fe                adc_deferred
+ .text.WDT_on   0x00000b9a        0x8 anduril.o
+                0x00000b9a                WDT_on
+ .text.__vector_5
+                0x00000ba2       0x1e anduril.o
+                0x00000ba2                __vector_5
+ .text.button_is_pressed
+                0x00000bc0       0x10 anduril.o
+                0x00000bc0                button_is_pressed
+ .text.__vector_2
+                0x00000bd0       0x1e anduril.o
+                0x00000bd0                __vector_2
+ .text.PCINT_inner
+                0x00000bee       0x34 anduril.o
+                0x00000bee                PCINT_inner
+ .text.WDT_inner
+                0x00000c22      0x124 anduril.o
+                0x00000c22                WDT_inner
+ .text.sleep_until_eswitch_pressed
+                0x00000d46       0xac anduril.o
+                0x00000d46                sleep_until_eswitch_pressed
+ .text.idle_mode
+                0x00000df2       0x16 anduril.o
+                0x00000df2                idle_mode
+ .text.update_tint
+                0x00000e08      0x152 anduril.o
+                0x00000e08                update_tint
+ .text.pseudo_rand
+                0x00000f5a       0x2a anduril.o
+                0x00000f5a                pseudo_rand
+ .text.load_eeprom
+                0x00000f84       0x4a anduril.o
+                0x00000f84                load_eeprom
+ .text.save_eeprom
+                0x00000fce       0x38 anduril.o
+                0x00000fce                save_eeprom
+ .text.auto_clock_speed
+                0x00001006       0x34 anduril.o
+                0x00001006                auto_clock_speed
+ .text.button_led_set
+                0x0000103a       0x46 anduril.o
+                0x0000103a                button_led_set
+ .text.rgb_led_set
+                0x00001080       0xd0 anduril.o
+                0x00001080                rgb_led_set
+ .text.set_level
+                0x00001150       0xf0 anduril.o
+                0x00001150                set_level
+ .text.gradual_tick
+                0x00001240       0xe4 anduril.o
+                0x00001240                gradual_tick
+ .text.number_entry_state
+                0x00001324       0x9a anduril.o
+                0x00001324                number_entry_state
+ .text.triangle_wave
+                0x000013be        0xe anduril.o
+                0x000013be                triangle_wave
+ .text.reboot   0x000013cc       0x10 anduril.o
+                0x000013cc                reboot
+ .text.handle_deferred_interrupts
+                0x000013dc       0x16 anduril.o
+                0x000013dc                handle_deferred_interrupts
+ .text.nice_delay_ms
+                0x000013f2       0x66 anduril.o
+                0x000013f2                nice_delay_ms
+ .text.blink_digit
+                0x00001458       0x44 anduril.o
+                0x00001458                blink_digit
+ .text.blink_num
+                0x0000149c       0x48 anduril.o
+                0x0000149c                blink_num
+ .text.battcheck
+                0x000014e4        0xa anduril.o
+                0x000014e4                battcheck
+ .text.ramp_update_config
+                0x000014ee       0x28 anduril.o
+                0x000014ee                ramp_update_config
+ .text.nearest_level
+                0x00001516       0xc8 anduril.o
+                0x00001516                nearest_level
+ .text.set_level_and_therm_target
+                0x000015de        0xa anduril.o
+                0x000015de                set_level_and_therm_target
+ .text.load_config
+                0x000015e8       0xdc anduril.o
+                0x000015e8                load_config
+ .text.save_config
+                0x000016c4       0xd6 anduril.o
+                0x000016c4                save_config
+ .text.config_state_base
+                0x0000179a       0xae anduril.o
+                0x0000179a                config_state_base
+ .text.ramp_config_state
+                0x00001848        0xc anduril.o
+                0x00001848                ramp_config_state
+ .text.simple_ui_config_state
+                0x00001854        0xc anduril.o
+                0x00001854                simple_ui_config_state
+ .text.ramp_extras_config_state
+                0x00001860        0xc anduril.o
+                0x00001860                ramp_extras_config_state
+ .text.globals_config_state
+                0x0000186c        0xc anduril.o
+                0x0000186c                globals_config_state
+ .text.voltage_config_state
+                0x00001878        0xc anduril.o
+                0x00001878                voltage_config_state
+ .text.thermal_config_state
+                0x00001884        0xc anduril.o
+                0x00001884                thermal_config_state
+ .text.autolock_config_state
+                0x00001890        0xc anduril.o
+                0x00001890                autolock_config_state
+ .text.voltage_to_rgb
+                0x0000189c       0x34 anduril.o
+                0x0000189c                voltage_to_rgb
+ .text.rgb_led_update
+                0x000018d0      0x158 anduril.o
+                0x000018d0                rgb_led_update
+ .text.blink_once
+                0x00001a28       0x24 anduril.o
+                0x00001a28                blink_once
+ .text.off_state
+                0x00001a4c      0x350 anduril.o
+                0x00001a4c                off_state
+ .text.beacon_state
+                0x00001d9c       0x66 anduril.o
+                0x00001d9c                beacon_state
+ .text.lockout_state
+                0x00001e02      0x1ac anduril.o
+                0x00001e02                lockout_state
+ .text.blip     0x00001fae       0x1c anduril.o
+                0x00001fae                blip
+ .text.tint_ramping_state
+                0x00001fca      0x108 anduril.o
+                0x00001fca                tint_ramping_state
+ .text.sunset_timer_state
+                0x000020d2       0xb2 anduril.o
+                0x000020d2                sunset_timer_state
+ .text.steady_state
+                0x00002184      0x4fa anduril.o
+                0x00002184                steady_state
+ .text.factory_reset
+                0x0000267e       0x7a anduril.o
+                0x0000267e                factory_reset
+ .text.candle_mode_state
+                0x000026f8      0x244 anduril.o
+                0x000026f8                candle_mode_state
+ .text.strobe_state
+                0x0000293c      0x198 anduril.o
+                0x0000293c                strobe_state
+ .text.momentary_state
+                0x00002ad4       0x9c anduril.o
+                0x00002ad4                momentary_state
+ .text.setup    0x00002b70       0x36 anduril.o
+                0x00002b70                setup
+ .text.loop     0x00002ba6      0x2ae anduril.o
+                0x00002ba6                loop
+ .text.main     0x00002e54       0xdc anduril.o
+                0x00002e54                main
+ .text.low_voltage
+                0x00002f30       0x58 anduril.o
+                0x00002f30                low_voltage
+ .text.default_state
+                0x00002f88       0x10 anduril.o
+                0x00002f88                default_state
+ .text.libgcc.mul
+                0x00002f98       0x22 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_mulhi3.o)
+                0x00002f98                __mulhi3
+ .text.libgcc.mul
+                0x00002fba       0x32 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_mulsi3.o)
+                0x00002fba                __mulsi3
+                0x00002fbe                __mulsi3_helper
+ .text.libgcc.div
+                0x00002fec       0x18 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_udivmodqi4.o)
+                0x00002fec                __udivmodqi4
+ .text.libgcc.div
+                0x00003004       0x28 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_udivmodhi4.o)
+                0x00003004                __udivmodhi4
+ .text.libgcc.div
+                0x0000302c       0x28 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_divmodhi4.o)
+                0x0000302c                _div
+                0x0000302c                __divmodhi4
+ .text.libgcc.div
+                0x00003054       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_udivmodsi4.o)
+                0x00003054                __udivmodsi4
+ .text.avr-libc
+                0x00003098       0x10 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.8.332/gcc/dev/attiny1634/avr35\libattiny1634.a(eerd_byte.o)
+                0x00003098                eeprom_read_byte
+ .text.avr-libc
+                0x000030a8       0x24 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.8.332/gcc/dev/attiny1634/avr35\libattiny1634.a(eeupd_byte.o)
+                0x000030a8                eeprom_update_byte
+                0x000030aa                eeprom_update_r18
+                0x000030cc                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x000030cc        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_exit.o)
+                0x000030cc                _exit
+                0x000030cc                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x000030cc        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr35\libgcc.a(_exit.o)
+ *(.fini0)
+                0x000030d0                _etext = .
+
+.data           0x00800100       0x4c load address 0x000030d0
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ .data.candle_wave3_depth.2734
+                0x00800100        0x1 anduril.o
+ .data.candle_wave2_depth.2733
+                0x00800101        0x1 anduril.o
+ .data.candle_mode_brightness.2735
+                0x00800102        0x1 anduril.o
+ .data.ramp_direction.2727
+                0x00800103        0x1 anduril.o
+ .data.ramp_direction.2693
+                0x00800104        0x1 anduril.o
+ .data.tint_ramp_direction.2672
+                0x00800105        0x1 anduril.o
+ .data.ramp_direction.2455
+                0x00800106        0x1 anduril.o
+ .data.offset.2232
+                0x00800107        0x2 anduril.o
+ .data.bike_flasher_brightness
+                0x00800109        0x1 anduril.o
+                0x00800109                bike_flasher_brightness
+ .data.strobe_delays
+                0x0080010a        0x2 anduril.o
+                0x0080010a                strobe_delays
+ .data.strobe_type
+                0x0080010c        0x1 anduril.o
+                0x0080010c                strobe_type
+ .data.beacon_seconds
+                0x0080010d        0x1 anduril.o
+                0x0080010d                beacon_seconds
+ .data.rgb_led_lockout_mode
+                0x0080010e        0x1 anduril.o
+                0x0080010e                rgb_led_lockout_mode
+ .data.rgb_led_off_mode
+                0x0080010f        0x1 anduril.o
+                0x0080010f                rgb_led_off_mode
+ .data.ramp_stepss
+                0x00800110        0x3 anduril.o
+                0x00800110                ramp_stepss
+ .data.ramp_ceils
+                0x00800113        0x3 anduril.o
+                0x00800113                ramp_ceils
+ .data.ramp_floors
+                0x00800116        0x3 anduril.o
+                0x00800116                ramp_floors
+ .data.ramp_ceil
+                0x00800119        0x1 anduril.o
+                0x00800119                ramp_ceil
+ .data.ramp_floor
+                0x0080011a        0x1 anduril.o
+                0x0080011a                ramp_floor
+ .data.ramp_2c_style
+                0x0080011b        0x1 anduril.o
+                0x0080011b                ramp_2c_style
+ .data.simple_ui_active
+                0x0080011c        0x1 anduril.o
+                0x0080011c                simple_ui_active
+ .data.memorized_level
+                0x0080011d        0x1 anduril.o
+                0x0080011d                memorized_level
+ .data.jump_start_level
+                0x0080011e        0x1 anduril.o
+                0x0080011e                jump_start_level
+ .data.tint     0x0080011f        0x1 anduril.o
+                0x0080011f                tint
+ .data.therm_ceil
+                0x00800120        0x1 anduril.o
+                0x00800120                therm_ceil
+ .data.voltage_correction
+                0x00800121        0x1 anduril.o
+                0x00800121                voltage_correction
+ .data.adc_reset
+                0x00800122        0x1 anduril.o
+                0x00800122                adc_reset
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ .rodata        0x00800123        0x6 anduril.o
+ *(.rodata*)
+ .rodata.animation.2583
+                0x00800129       0x13 anduril.o
+ .rodata.levels.2549
+                0x0080013c       0x10 anduril.o
+ *(.gnu.linkonce.r*)
+                0x0080014c                . = ALIGN (0x2)
+                0x0080014c                _edata = .
+                0x0080014c                PROVIDE (__data_end, .)
+
+.bss            0x0080014c       0xb7
+                0x0080014c                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.candle_wave2_speed.2731
+                0x0080014c        0x1 anduril.o
+ .bss.candle_wave3.2730
+                0x0080014d        0x1 anduril.o
+ .bss.candle_wave2.2729
+                0x0080014e        0x1 anduril.o
+ .bss.candle_wave1.2728
+                0x0080014f        0x1 anduril.o
+ .bss.prev_tint.2673
+                0x00800150        0x1 anduril.o
+ .bss.past_edge_counter.2674
+                0x00800151        0x1 anduril.o
+ .bss.active.2675
+                0x00800152        0x1 anduril.o
+ .bss.frame.2564
+                0x00800153        0x1 anduril.o
+ .bss.rainbow.2563
+                0x00800154        0x1 anduril.o
+ .bss.entry_step.2546
+                0x00800155        0x1 anduril.o
+ .bss.config_step.2541
+                0x00800156        0x1 anduril.o
+ .bss.prev_tint.2456
+                0x00800157        0x1 anduril.o
+ .bss.ticks_since_adjust.2466
+                0x00800158        0x2 anduril.o
+ .bss.timer_orig_level.2462
+                0x0080015a        0x1 anduril.o
+ .bss.prev_level.2186
+                0x0080015b        0x1 anduril.o
+ .bss.adc_trigger.2154
+                0x0080015c        0x1 anduril.o
+ .bss.warning_threshold.2112
+                0x0080015d        0x1 anduril.o
+ .bss.history_step.2110
+                0x0080015e        0x1 anduril.o
+ .bss.temperature_history.2111
+                0x0080015f       0x10 anduril.o
+ .bss.lvp_timer.2106
+                0x0080016f        0x1 anduril.o
+ .bss.momentary_active
+                0x00800170        0x1 anduril.o
+                0x00800170                momentary_active
+ .bss.momentary_mode
+                0x00800171        0x1 anduril.o
+                0x00800171                momentary_mode
+ .bss.autolock_time
+                0x00800172        0x1 anduril.o
+                0x00800172                autolock_time
+ .bss.sunset_ticks
+                0x00800173        0x2 anduril.o
+                0x00800173                sunset_ticks
+ .bss.sunset_timer_peak
+                0x00800175        0x1 anduril.o
+                0x00800175                sunset_timer_peak
+ .bss.sunset_timer
+                0x00800176        0x1 anduril.o
+                0x00800176                sunset_timer
+ .bss.setting_rgb_mode_now
+                0x00800177        0x1 anduril.o
+                0x00800177                setting_rgb_mode_now
+ .bss.dont_ramp_after_moon
+                0x00800178        0x1 anduril.o
+                0x00800178                dont_ramp_after_moon
+ .bss.ramp_style
+                0x00800179        0x1 anduril.o
+                0x00800179                ramp_style
+ .bss.ramp_2c_style_simple
+                0x0080017a        0x1 anduril.o
+                0x0080017a                ramp_2c_style_simple
+ .bss.manual_memory_timer
+                0x0080017b        0x1 anduril.o
+                0x0080017b                manual_memory_timer
+ .bss.manual_memory
+                0x0080017c        0x1 anduril.o
+                0x0080017c                manual_memory
+ .bss.target_level
+                0x0080017d        0x1 anduril.o
+                0x0080017d                target_level
+ .bss.nice_delay_interrupt
+                0x0080017e        0x1 anduril.o
+                0x0080017e                nice_delay_interrupt
+ .bss.pseudo_rand_seed
+                0x0080017f        0x1 anduril.o
+                0x0080017f                pseudo_rand_seed
+ .bss.actual_level
+                0x00800180        0x1 anduril.o
+                0x00800180                actual_level
+ .bss.go_to_standby
+                0x00800181        0x1 anduril.o
+                0x00800181                go_to_standby
+ .bss.irq_pcint
+                0x00800182        0x1 anduril.o
+                0x00800182                irq_pcint
+ .bss.irq_wdt   0x00800183        0x1 anduril.o
+                0x00800183                irq_wdt
+ .bss.state_stack_len
+                0x00800184        0x1 anduril.o
+                0x00800184                state_stack_len
+ .bss.therm_cal_offset
+                0x00800185        0x1 anduril.o
+                0x00800185                therm_cal_offset
+ .bss.voltage   0x00800186        0x1 anduril.o
+                0x00800186                voltage
+ .bss.adc_deferred_enable
+                0x00800187        0x1 anduril.o
+                0x00800187                adc_deferred_enable
+ .bss.adc_channel
+                0x00800188        0x1 anduril.o
+                0x00800188                adc_channel
+ .bss.adc_sample_count
+                0x00800189        0x1 anduril.o
+                0x00800189                adc_sample_count
+ .bss.irq_adc   0x0080018a        0x1 anduril.o
+                0x0080018a                irq_adc
+ .bss.ticks_since_last_event
+                0x0080018b        0x2 anduril.o
+ *(COMMON)
+ COMMON         0x0080018d       0x76 anduril.o
+                0x0080018d                eeprom
+                0x008001ab                current_state
+                0x008001ad                ramp_discrete_step_size
+                0x008001ae                temperature
+                0x008001b0                gradual_target
+                0x008001b1                button_last_state
+                0x008001b2                deferred_state
+                0x008001b4                deferred_state_arg
+                0x008001b6                emissions
+                0x008001e6                manual_memory_tint
+                0x008001e7                number_entry_value
+                0x008001e8                adc_smooth
+                0x008001ec                PWM1_LVL
+                0x008001ee                current_event
+                0x008001ef                adc_raw
+                0x008001f3                state_stack
+                0x00800203                PROVIDE (__bss_end, .)
+                0x000030d0                __data_load_start = LOADADDR (.data)
+                0x0000311c                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800203        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x00800203                _end = .
+                [!provide]                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 anduril.o
+                                 0x31 (size before relaxing)
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.8.332/gcc/dev/attiny1634/avr35/crtattiny1634.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x2f8
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000      0x2b8 anduril.o
+ .debug_aranges
+                0x000002b8       0x20 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.8.332/gcc/dev/attiny1634/avr35\libattiny1634.a(eerd_byte.o)
+ .debug_aranges
+                0x000002d8       0x20 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.8.332/gcc/dev/attiny1634/avr35\libattiny1634.a(eeupd_byte.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x4856
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x684 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.8.332/gcc/dev/attiny1634/avr35/crtattiny1634.o
+ .debug_info    0x00000684     0x409b anduril.o
+ .debug_info    0x0000471f       0x9b C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.8.332/gcc/dev/attiny1634/avr35\libattiny1634.a(eerd_byte.o)
+ .debug_info    0x000047ba       0x9c C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.8.332/gcc/dev/attiny1634/avr35\libattiny1634.a(eeupd_byte.o)
+
+.debug_abbrev   0x00000000      0xbf5
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x62a C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.8.332/gcc/dev/attiny1634/avr35/crtattiny1634.o
+ .debug_abbrev  0x0000062a      0x5a3 anduril.o
+ .debug_abbrev  0x00000bcd       0x14 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.8.332/gcc/dev/attiny1634/avr35\libattiny1634.a(eerd_byte.o)
+ .debug_abbrev  0x00000be1       0x14 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.8.332/gcc/dev/attiny1634/avr35\libattiny1634.a(eeupd_byte.o)
+
+.debug_line     0x00000000     0x3395
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x140 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.8.332/gcc/dev/attiny1634/avr35/crtattiny1634.o
+ .debug_line    0x00000140     0x3125 anduril.o
+ .debug_line    0x00003265       0x7a C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.8.332/gcc/dev/attiny1634/avr35\libattiny1634.a(eerd_byte.o)
+ .debug_line    0x000032df       0xb6 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.8.332/gcc/dev/attiny1634/avr35\libattiny1634.a(eeupd_byte.o)
+
+.debug_frame    0x00000000      0x7b4
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x7b4 anduril.o
+
+.debug_str      0x00000000     0x1491
+ *(.debug_str)
+ .debug_str     0x00000000      0x24a C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATtiny_DFP/1.8.332/gcc/dev/attiny1634/avr35/crtattiny1634.o
+ .debug_str     0x0000024a     0x1247 anduril.o
+                               0x138c (size before relaxing)
+
+.debug_loc      0x00000000     0x37b9
+ *(.debug_loc)
+ .debug_loc     0x00000000     0x37b9 anduril.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x3b8
+ *(.debug_ranges)
+ .debug_ranges  0x00000000      0x3b8 anduril.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(r633_dm1-12-Omnias-42.elf elf32-avr)
+LOAD linker stubs
