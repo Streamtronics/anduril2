@@ -165,16 +165,16 @@ uint8_t off_state(Event event, uint16_t arg) {
         if (simple_ui_active) style_2c = ramp_2c_style_simple;
         #endif
 
+		turbo_level = MAX_LEVEL;
 		// force top of ramp unless only on tint 1
-		#ifdef USE_TINT_RAMPING
-			if(tint > 1) {
-				style_2c = 0;
-			}
+		#if defined(USE_TINT_RAMPING) && defined(USE_CH1_FET_TINT_RAMPING)
+		if ((tint != 1) && (tint != 255)) {
+			turbo_level = mode_max;
+		}
 		#endif
         // 0  = ceiling
         // 1+ = full power
-        if (0 == style_2c) turbo_level = mode_max;
-        else turbo_level = MAX_LEVEL;
+        if (style_2c == 0) turbo_level = mode_max;
 
         set_level(turbo_level);
         return MISCHIEF_MANAGED;

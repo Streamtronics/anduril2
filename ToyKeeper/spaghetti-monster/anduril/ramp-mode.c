@@ -57,20 +57,17 @@ uint8_t steady_state(Event event, uint16_t arg) {
         // 0 = no turbo
         // 1 = Anduril 1 direct to turbo
         // 2 = Anduril 2 direct to ceiling, or turbo if already at ceiling
-        if (0 == style_2c) turbo_level = mode_max;
-        else if (1 == style_2c) turbo_level = MAX_LEVEL;
+        if (style_2c == 0) turbo_level = mode_max;
         else {
-            if (memorized_level < mode_max) { turbo_level = mode_max; }
-            else {
-				turbo_level = MAX_LEVEL;
-				// force top of ramp unless only on tint 1
-				#ifdef USE_TINT_RAMPING
-					if(tint > 1) {
-						turbo_level = mode_max;
-					}
-				#endif
-			 }
-        }
+			turbo_level = MAX_LEVEL;
+			if ((style_2c == 1) && (memorized_level < mode_max)) { turbo_level = mode_max; }
+			#if defined(USE_TINT_RAMPING) && defined(USE_CH1_FET_TINT_RAMPING)
+			if ((tint != 1) && (tint != 255)) {
+				turbo_level = mode_max;
+			}
+			#endif
+		}
+			
     #elif defined(USE_2C_MAX_TURBO)  // Anduril 1 style always
         // simple UI: to/from ceiling
         // full UI: to/from turbo (Anduril1 behavior)

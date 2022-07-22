@@ -61,3 +61,4 @@
 // speed up party strobe; the FET is really fast
 #undef PARTY_STROBE_ONTIME
 
+#define USE_CH1_FET_TINT_RAMPING
